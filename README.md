@@ -2,6 +2,7 @@
 
 I am a second-year student in computer science at AGH UST.
 
+- Recently won a hackathon with this project: [**Krakoskie-Obwarzanki**](https://github.com/taylor-swif/Krakoskie-Obwarzanki). I was responsible for most of the backend, which was built using FastAPI and MongoDB.
 - 🌱 I’m currently learning **functional programing (erlang and elixir)**
 
 
