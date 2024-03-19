@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 I am a second-year student in computer science at AGH UST.
 
